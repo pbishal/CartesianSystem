@@ -1,0 +1,13 @@
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\CartesianSyayem\CartesianSyayem\bin\Debug\netcoreapp3.1\CartesianSyayem.exe
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\CartesianSyayem\CartesianSyayem\bin\Debug\netcoreapp3.1\CartesianSyayem.deps.json
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\CartesianSyayem\CartesianSyayem\bin\Debug\netcoreapp3.1\CartesianSyayem.runtimeconfig.json
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\CartesianSyayem\CartesianSyayem\bin\Debug\netcoreapp3.1\CartesianSyayem.runtimeconfig.dev.json
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\CartesianSyayem\CartesianSyayem\bin\Debug\netcoreapp3.1\CartesianSyayem.dll
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\CartesianSyayem\CartesianSyayem\bin\Debug\netcoreapp3.1\CartesianSyayem.pdb
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\CartesianSyayem\CartesianSyayem\obj\Debug\netcoreapp3.1\CartesianSyayem.csprojAssemblyReference.cache
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\CartesianSyayem\CartesianSyayem\obj\Debug\netcoreapp3.1\CartesianSyayem.AssemblyInfoInputs.cache
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\CartesianSyayem\CartesianSyayem\obj\Debug\netcoreapp3.1\CartesianSyayem.AssemblyInfo.cs
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\CartesianSyayem\CartesianSyayem\obj\Debug\netcoreapp3.1\CartesianSyayem.csproj.CoreCompileInputs.cache
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\CartesianSyayem\CartesianSyayem\obj\Debug\netcoreapp3.1\CartesianSyayem.dll
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\CartesianSyayem\CartesianSyayem\obj\Debug\netcoreapp3.1\CartesianSyayem.pdb
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\CartesianSyayem\CartesianSyayem\obj\Debug\netcoreapp3.1\CartesianSyayem.genruntimeconfig.cache
