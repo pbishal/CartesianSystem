@@ -4,7 +4,7 @@ namespace CartesianSyayem
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void compareTwoMethod()
         {
             Console.WriteLine("Enter the value of x1: ");
             string x1val = Console.ReadLine();
@@ -54,7 +54,7 @@ namespace CartesianSyayem
             {
                 Console.WriteLine("lengthOfLine1 is greater than lengthOfLine2");
             }
-            else if(lengthOfLine1 < lengthOfLine2)
+            else if (lengthOfLine1 < lengthOfLine2)
             {
                 Console.WriteLine("lengthOfLine1 is less than lengthOfLine2");
             }
@@ -63,6 +63,10 @@ namespace CartesianSyayem
                 Console.WriteLine("*");
             }
             Console.ReadLine();
+        }
+        static void Main(string[] args)
+        {
+            compareTwoMethod();
         }
     }
 }
